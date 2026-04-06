@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Ai Engineer passionate about turning data into meaningful insights and building intelligent systems that solve real-world problems.<br><br>🤖 Working at the intersection of AI/ML and Web Development<br>🔬 Interested in machine learning, deep learning, and data-driven applications<br>🌐 Building end-to-end solutions — from model training to web deployment<br>🛠️ Love contributing to open source and participating in hackathons<br>📈 Always exploring new tools, frameworks, and research in the AI space <br> PORTFOLIO Web:-https://my-portfolio-nine-xi-43.vercel.app/
+I'm a Ai Engineer passionate about turning data into meaningful insights and building intelligent systems that solve real-world problems.<br><br>🤖 Working at the intersection of AI/ML and Web Development<br>🔬 Interested in machine learning, deep learning, and data-driven applications<br>🌐 Building end-to-end solutions — from model training to web deployment<br>🛠️ Love contributing to open source and participating in hackathons<br>📈 Always exploring new tools, frameworks, and research in the AI space <br>🧑‍💻 PORTFOLIO Web:-https://my-portfolio-nine-xi-43.vercel.app/
 
 
 ## 🌐 Socials:
