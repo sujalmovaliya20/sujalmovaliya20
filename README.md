@@ -5,7 +5,7 @@ I'm an AI Engineer passionate about turning data into meaningful insights and bu
 🔬 Interested in machine learning, deep learning, and data-driven applications
 🌐 Building end-to-end solutions — from model training to web deployment
 🛠️ Love contributing to open source and participating in hackathons
-📈 Always exploring new tools, frameworks, and research in the AI space
+📈 Always exploring new tools, frameworks, and research in the AI space <br>
 🧑‍💻 **Portfolio:** [my-portfolio-nine-xi-43.vercel.app](https://my-portfolio-nine-xi-43.vercel.app/)
 
 ---
