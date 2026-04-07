@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/SINCE%202023-%23ef4444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-%233b82f6?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/ENTHUSIAST-%2322c55e?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE%20VIEWS&color=3b82f6&style=for-the-badge" />
+  <img src="https://github.com/sujalmovaliya20&label=PROFILE%20VIEWS&color=3b82f6&style=for-the-badge" />
 </p>
 
 ---
