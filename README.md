@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujal Movaliya</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILDING%20THE%20WEB-%231f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILDING%20THE%20SOFTWARE-%231f2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SINCE%202023-%23ef4444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-%233b82f6?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/AI ENTHUSIAST-%2322c55e?style=for-the-badge" />
