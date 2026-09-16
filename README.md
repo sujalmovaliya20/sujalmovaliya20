@@ -40,7 +40,15 @@ I'm an AI Engineer passionate about turning data into meaningful insights and bu
 
 ---
 ### 🤖 AI / ML 
-
+![GenAI](https://img.shields.io/badge/GenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-%235B21B6.svg?style=for-the-badge&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%230EA5E9.svg?style=for-the-badge&logo=bookstack&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23F59E0B.svg?style=for-the-badge&logo=graph&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-%230F766E.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-%236366F1.svg?style=for-the-badge&logo=memory&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-%234581C3.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-%23181717.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 ---
 
 ### 🎨 Frontend
